@@ -19,3 +19,4 @@ cmd /c mklink USER /D User "C:\$(cloneしたフォルダ)"
 * jQuery Code Snippers
 * Markdown All in One
 * Project Manger
+* vscode-icons

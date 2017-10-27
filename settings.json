@@ -8,5 +8,6 @@
         "C:\\env\\cmder\\vscode.bat"
     ],
     "editor.snippetSuggestions": "top",
-    "markdown.preview.scrollEditorWithPreview": true
+    "markdown.preview.scrollEditorWithPreview": true,
+    "workbench.iconTheme": "vscode-icons"
 }
