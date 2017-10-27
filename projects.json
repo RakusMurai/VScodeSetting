@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Memos",
+		"rootPath": "c:\\Users\\fyrjq\\Documents\\Memos",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "PlayApp",
+		"rootPath": "c:\\Users\\fyrjq\\Documents\\workspace\\PlayApp",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "UserSetting",
+		"rootPath": "c:\\Users\\fyrjq\\AppData\\Roaming\\Code\\User",
+		"paths": [],
+		"group": ""
+	}
+]

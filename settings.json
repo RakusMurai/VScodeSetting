@@ -1,0 +1,12 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Monokai",
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\sysnative\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "/K",
+        "C:\\env\\cmder\\vscode.bat"
+    ],
+    "editor.snippetSuggestions": "top",
+    "markdown.preview.scrollEditorWithPreview": true
+}
